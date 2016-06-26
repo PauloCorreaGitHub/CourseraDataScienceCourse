@@ -1,2 +1,2 @@
 # CourseraDataScienceCourse
-Repo to practice for Coursera course
+this is no longer the comment created for the master branch, but one created to replace it
